@@ -86,6 +86,7 @@ Seasonal Trends: Discovering the most common sales times and days of the week.
 # Technologies Used
 
 SQL (Structured Query Language)
+
 PostegreSQL
 
 ## Conclusion
@@ -100,6 +101,7 @@ Run the Script: Execute the commands in sql_query_retail.sql using your preferre
 Explore: Feel free to modify the queries to explore the data further or answer your own business questions. The script is well-commented to guide you.
 
 ## Author - Ayush M Singh
+
 
 
 
