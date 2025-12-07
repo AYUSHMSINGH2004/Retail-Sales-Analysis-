@@ -86,6 +86,7 @@ Seasonal Trends: Discovering the most common sales times and days of the week.
 # Technologies Used
 
 SQL (Structured Query Language)
+PostegreSQL
 
 ## Conclusion
 
@@ -100,7 +101,6 @@ Explore: Feel free to modify the queries to explore the data further or answer y
 
 ## Author - Ayush M Singh
 
-This project is a part of my portfolio, demonstrating the SQL skills that are crucial for a data analyst.
 
 
 
